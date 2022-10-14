@@ -28,11 +28,11 @@
 **Reference:**  
 Dateset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/dataset/Salary.csv">Dataset.csv</a>  
 Train Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/train_x.csv">Train_X.csv</a>,
-<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/train_y.csv">Train_y.csv</a>
+<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/train_y.csv">Train_y.csv</a>  
 Test Processed Dataset:<a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/test_x.csv">Test_X.csv</a>,
 <a href="https://raw.githubusercontent.com/bdfd/Portfolio_Project_10-Salary_Prediction/main/display%20demo/test_y.csv">Test_y.csv</a>  
-Demo:<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/Salary_Prediction.ipynb">Jupyter Notebook/Colab Link</a>
-Visualization:<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/display%20demo/test%20result.png">Test Result</a>,<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering_Bivariate.png">Train Result</a>
+Demo:<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/Salary_Prediction.ipynb">Jupyter Notebook/Colab Link</a>  
+Visualization:<a href="https://github.com/bdfd/Portfolio_Project_10-Salary_Prediction/blob/main/display%20demo/test%20result.png">Test Result</a>,<a href="https://github.com/bdfd/Section6.Project04_Customer_Segmentation/blob/main/display%20demo/Clustering_Bivariate.png">Train Result</a>  
 <br>
 
 <div align="center">
